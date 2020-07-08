@@ -1,0 +1,71 @@
+.container {
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+
+.orange-bg {
+    background-color: #fceae8;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.price {
+    color: #ff136f;
+}
+
+.action-btn {
+    background-image: linear-gradient(45deg, #ff589b, #ff136f);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.watch {
+    background-image: linear-gradient(to right, #f1c46f, orange);
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+
+.bag {
+    background-image: linear-gradient(to right, #ee7aea, #fc05f3);
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+
+.shoes {
+    background-image: linear-gradient(to right, rgb(52, 191, 238), blue);
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    padding-right: 0;
+    border-radius: 10px;
+}
+
+.card .action-btn {
+    text-decoration: none;
+    color: #fff;
+}
+
+.subscribe {
+    padding: 100px 20px 100px 20px;
+    border-radius: 10px;
+    height: 300px;
+}
+
+.subscribe p {
+    color: gray;
+}
+
+.subscribe .action-btn {
+    text-decoration: none;
+    color: #fff;
+}
